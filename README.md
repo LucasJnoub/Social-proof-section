@@ -16,4 +16,4 @@ CSS-3.
 #
 
 ### Desktop version:
-![desktop](https://user-images.githubusercontent.com/122225478/216133949-c82c4d7d-52dd-4358-a28f-8527e203b3b1.jpg)
+![desktop](https://user-images.githubusercontent.com/122225478/216441447-591136b4-10a3-4758-abd0-13801f8c1f42.jpg)
